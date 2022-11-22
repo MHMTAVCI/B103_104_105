@@ -4,3 +4,4 @@ Git Githup ikinci gün üçüncü deneme
 Git Githup ikinci gün EROL branch i deneme
 Git Githup ikinci gün Master branch i deneme
 Git Githup ikinci gün EROL branch 2. deneme
+Git Githup ikinci gün Evren branch ilk deneme
